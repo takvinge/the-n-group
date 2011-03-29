@@ -2,3 +2,5 @@
 
 = Startside =
 Da er vi endelig i gang!
+
+== Jippi ==
